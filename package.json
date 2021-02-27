@@ -1,0 +1,16 @@
+{
+  "name": "11-porfolio-eduardas",
+  "version": "1.0.0",
+  "description": "Demo projektas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardas",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
